@@ -110,7 +110,7 @@
       },      
       "UPSTREAM_REPO": {
         "description": "سيبها زي مهيا .",
-        "value": "https://github.com/etmusicbot/etmusicbot",
+        "value": "https://github.com/Mohamed05896/musicbot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
@@ -138,3 +138,4 @@
       },
       "stack": "container"
   }
+
